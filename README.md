@@ -1,10 +1,14 @@
 ![logo_ironhack_blue 7](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)
 
+Hi I'm Luis Ricardo
+
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
 
 Marco welcomes all of you guys to the Desarroladores Masquerades
+ 
+ 
 
 The goal of this assignment is to give you a brief introduction to GitHub. We’ll also provide you with materials for further learning and a few ideas to get you started on the github platform. 🚀
 
